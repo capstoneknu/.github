@@ -10,12 +10,12 @@
   프로젝트의 백엔드 및 AI 인프라는 현재 AWS EC2 클라우드 환경에서 가동 중입니다. 
 다음의 앱(APK)만 설치하여 전체 시스템을 체험해 보실 수 있습니다.
 
-###  앱 설치
+## 1.1. 앱 설치
 아래 링크를 클릭하거나 QR 코드를 스캔하여 테스트 기기(안드로이드 실물 스마트폰 또는 에뮬레이터)에 앱을 설치해 주세요.
-## 1) PC 환경 (Android Studio전용)
+### 1.1.1. PC 환경 (Android Studio전용)
 ## [다운로드 링크](https://github.com/capstoneknu/.github/releases/download/v1.0.0/EnergyDemandResponse_v1.apk) 
 <br><br>
-## 2) 모바일 기기
+### 1.1.2. QR코드
 <img width="100" height="100" alt="url_qrcodecreator com_12_42_18" src="https://github.com/user-attachments/assets/e833fc48-b276-465b-9424-90b48e986c34" />
 <br>
 
