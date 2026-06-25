@@ -3,6 +3,7 @@
 강원특별자치도 2040 탄소중립 실현을 위한 [도민 참여형 수요 반응(DR) 및 맞춤형 보상 플랫폼] 프로젝트의 공식 깃허브 공간입니다.<br>
 2개의  리포지토리로 분리되어 있습니다.
 
+
 ---
 ## 1.Repositories & System Architecture Overview
 
@@ -52,6 +53,7 @@ flowchart TB
 
     class Repo_B,Repo_A boundary;
 ```
+<br><br>
 ---
 ## 2. Repositories 
 방문자께서는 아래의 링크를 클릭하여 각 파트별 상세 구조와 소스코드를 확인하실 수 있습니다.
@@ -68,8 +70,8 @@ flowchart TB
 - 저장소명: backend_service_client
 
 - 주요 역할: 모바일 앱을 통해 사용자에게 인터페이스를 제공하고, 웹소켓 통신 및 회원/미션/포인트 비즈니스 로직을 총괄합니다.
-
 ---
+<br><br>
 ## 3. Team 구성원
 
 | 김수영 | 함동관 |
