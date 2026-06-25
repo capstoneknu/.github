@@ -56,14 +56,15 @@ flowchart TB
 ## 2. Repositories 
 방문자께서는 아래의 링크를 클릭하여 각 파트별 상세 구조와 소스코드를 확인하실 수 있습니다.
 
-1️⃣ 데이터 파이프라인 및 인공지능 코어 (A파트) ➔
+1️⃣ 데이터 파이프라인 및 인공지능 코어 (담당자: 김수영) ➔(https://github.com/capstoneknu/data_pipeline_ai.git
+)
 
 - 저장소명: data_pipeline_ai
 
 - 주요 역할: 1만 가구 규모의 실시간 스마트 미터 데이터를 수집하고, 인공지능이 전력 수요 예측 및 맞춤형 난이도를 산출합니다.
 
 
-2️⃣ 백엔드 비즈니스 로직 및 모바일 클라이언트 (B파트) ➔
+2️⃣ 백엔드 비즈니스 로직 및 모바일 클라이언트 (담당자: 함동관) ➔(https://github.com/capstoneknu/backend_service_client.git)
 
 - 저장소명: backend_service_client
 
