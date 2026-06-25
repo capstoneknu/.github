@@ -17,7 +17,8 @@
 <br>
 
 ### 1.1.2. QR코드
-<img width="200" height="200" alt="제목 없음" src="https://github.com/user-attachments/assets/ebde19c2-c61e-4198-8ac4-c3064b80847c" />
+<img width="250" height="250" alt="EnergyDemandResponse" src="https://github.com/user-attachments/assets/73b88387-6093-4e7a-8ffa-e8549bc250b0" />
+
 
 <br><br>
 
